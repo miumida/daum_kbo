@@ -1,0 +1,6 @@
+{
+  "name": "다음스포츠 KBO",
+  "country": "KR",
+  "domains": ["sensor"],
+  "render_readme": true
+}
