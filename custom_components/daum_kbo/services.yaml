@@ -1,0 +1,20 @@
+rank:
+  # Description of the service
+  description: KBO리그 팀 순위를 조회합니다.
+  fields:
+    team:
+      description: "KBO리그 팀을 선택합니다."
+      example: "NC"
+      selector:
+        select:
+          options:
+            - NC
+            - 한화
+            - LG
+            - 롯데
+            - KT
+            - SSG
+            - 삼성
+            - KIA
+            - 두산
+            - 키움

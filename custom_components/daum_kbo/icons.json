@@ -1,0 +1,7 @@
+{
+    "services": {
+        "rank": {
+            "service": "mdi:notebook-edit"
+        }
+    }
+}
