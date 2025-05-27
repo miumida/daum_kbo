@@ -1,0 +1,27 @@
+{
+    "title": "다음스포츠 KBO",
+    "config": {
+        "abort": {
+            "single_instance_allowed": "장치가 이미 구성되었습니다."
+        },
+        "step": {
+            "user": {
+                "description": "다음스포츠 KBO 설정하기",
+                "title": "다음스포츠 KBO"
+            }
+        }
+    },
+    "services": {
+        "rank": {
+            "name": "팀 순위",
+            "description": "팀 순위를 조회합니다.",
+            "service": "mdi:notebook-edit",
+            "fields": {
+                "team": {
+                    "name" : "팀",
+                    "description": "순위 조회를 원하는 팀"
+                }
+            }
+        }
+    }   
+}
