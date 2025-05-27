@@ -1,0 +1,12 @@
+{
+    "domain": "daum_kbo",
+    "name": "다음스포츠 KBO",
+    "codeowners": ["@miumida"],
+    "config_flow": true,
+    "iot_class": "cloud_polling",
+    "dependencies": [],
+    "requirements": [],
+    "documentation": "https://github.com/miumida/daum_kbo",
+    "issue_tracker": "https://github.com/miumida/daum_kbo/issues",
+    "version": "1.0.0"
+}
